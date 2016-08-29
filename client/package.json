@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "proxy": "http://localhost:3001/",
+  "homepage": "http://ds-food-demo.herokuapp.com",
   "devDependencies": {
     "react-scripts": "0.2.3"
   },
